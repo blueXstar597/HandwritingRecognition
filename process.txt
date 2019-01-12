@@ -1,0 +1,14 @@
+Project Type:
+Apple App - Swift
+Web App - Python: Flask/Djiango
+Android - Java
+
+Storage:
+Apple - iCloudKit, Azure (https://docs.microsoft.com/en-us/azure/app-service-mobile/app-service-mobile-ios-get-started)
+Web - Mircosoft Azure (https://docs.microsoft.com/en-us/azure/app-service/containers/quickstart-python) / Firebase ??
+
+Machine Learning/AI:
+Machine Learning
+AI
+
+Process of Methods:
